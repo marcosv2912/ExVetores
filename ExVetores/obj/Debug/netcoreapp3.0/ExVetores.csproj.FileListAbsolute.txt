@@ -1,0 +1,11 @@
+C:\Users\marcos.paixao\source\repos\ExVetores\ExVetores\bin\Debug\netcoreapp3.0\ExVetores.exe
+C:\Users\marcos.paixao\source\repos\ExVetores\ExVetores\bin\Debug\netcoreapp3.0\ExVetores.deps.json
+C:\Users\marcos.paixao\source\repos\ExVetores\ExVetores\bin\Debug\netcoreapp3.0\ExVetores.runtimeconfig.json
+C:\Users\marcos.paixao\source\repos\ExVetores\ExVetores\bin\Debug\netcoreapp3.0\ExVetores.runtimeconfig.dev.json
+C:\Users\marcos.paixao\source\repos\ExVetores\ExVetores\bin\Debug\netcoreapp3.0\ExVetores.dll
+C:\Users\marcos.paixao\source\repos\ExVetores\ExVetores\bin\Debug\netcoreapp3.0\ExVetores.pdb
+C:\Users\marcos.paixao\source\repos\ExVetores\ExVetores\obj\Debug\netcoreapp3.0\ExVetores.csprojAssemblyReference.cache
+C:\Users\marcos.paixao\source\repos\ExVetores\ExVetores\obj\Debug\netcoreapp3.0\ExVetores.AssemblyInfoInputs.cache
+C:\Users\marcos.paixao\source\repos\ExVetores\ExVetores\obj\Debug\netcoreapp3.0\ExVetores.AssemblyInfo.cs
+C:\Users\marcos.paixao\source\repos\ExVetores\ExVetores\obj\Debug\netcoreapp3.0\ExVetores.dll
+C:\Users\marcos.paixao\source\repos\ExVetores\ExVetores\obj\Debug\netcoreapp3.0\ExVetores.pdb
